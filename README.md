@@ -9,9 +9,15 @@
 |---|---|
 -->
     
-    <img src="mail/download.png" alt="Paris" class="center">
+   
 
 </div>
+
+<div align="center">
+     <img src="mail/download.png" alt="Paris" class="center">
+</div>
+
+
 
 
 ## Used Features
