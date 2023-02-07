@@ -10,9 +10,11 @@
 
 </div>
 
-<img src="mail/download.png"/>
 
-<br>
+<div class="container">
+    <img src="mail/download.png" alt="FCC Logo" />
+</div>
+
 
 ## Used Features
 <table>
