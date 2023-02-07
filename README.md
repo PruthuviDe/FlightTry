@@ -1,19 +1,4 @@
 <div align="center">
-
-<img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-flight-interface-kiranshastry-solid-kiranshastry.png"/>
-<h1> FlightTry API </h1>
-
-    
-<!--
-| <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-flight-interface-kiranshastry-solid-kiranshastry.png"/> | <h1> FlightTry API </h1> |
-|---|---|
--->
-    
-   
-
-</div>
-
-<div align="center">
      <img src="mail/download.png" alt="Paris" class="center">
 </div>
 
