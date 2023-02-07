@@ -12,7 +12,7 @@
 
 
 <div class="container">
-    <img src="mail/download.png" alt="FCC Logo" />
+    <img src="mail/download.png" alt="Paris" class="center">
 </div>
 
 
