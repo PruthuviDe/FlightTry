@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://repository-images.githubusercontent.com/522240361/2139883c-e987-49d7-8e6b-bb11fdc32f85"/>
+<img src="mail/download.png"/>
 
 <br>
 
